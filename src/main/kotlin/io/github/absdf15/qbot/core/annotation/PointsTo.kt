@@ -1,5 +1,6 @@
 package io.github.absdf15.qbot.core.annotation
 
+import io.github.absdf15.qbot.core.module.common.Permission
 import java.util.concurrent.TimeUnit
 
 /**

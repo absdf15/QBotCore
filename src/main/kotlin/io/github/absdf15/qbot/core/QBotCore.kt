@@ -15,7 +15,7 @@ object QBotCore : KotlinPlugin(
     JvmPluginDescription(
         id = "io.github.absdf15.qbot.core",
         name = "QBotCore",
-        version = "0.1.0",
+        version = "0.1.1",
     ) {
         author("absdf15")
     }
